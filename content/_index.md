@@ -12,9 +12,9 @@ sections:
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -22,8 +22,9 @@ sections:
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
+        #image: "art-so-g-img-0963_orig.jpg"
         gradient_mesh:
-          enable: true
+           enable: true
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -55,7 +56,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications
