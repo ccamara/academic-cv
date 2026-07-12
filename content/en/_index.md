@@ -78,9 +78,9 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
-    id: news
+    id: blog
     content:
-      title: Recent News
+      title: Recent Blog Posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -102,7 +102,9 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      #view: card
+      view: article-grid
+      columns: 2
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
