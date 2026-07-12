@@ -7,11 +7,21 @@ es:
   locale: es-es
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/es
+  permalinks:
+      page:
+        blog: /blog/:year/:month/:slug/
+      section:
+        blog: /blog/
 
 # Uncomment the lines below to configure your website in a second language.
 en: 
   locale: en-GB
   contentDir: content/en
+  permalinks:
+      page:
+        blog: /blog/:year/:month/:slug/
+      section:
+        blog: /blog/
 #zh:
 #  locale: zh-Hans
 #  contentDir: content/zh
