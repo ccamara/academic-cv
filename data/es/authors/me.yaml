@@ -1,0 +1,159 @@
+schema: "hugoblox/author/v1"
+slug: "me"
+is_owner: true
+name:
+  display: "Carlos Cámara-Menoyo"
+  given: "Carlos"
+  family: "Cámara-Menoyo"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "PhD"
+status:
+  icon: ""
+role: "Senior Research Software Engineer"
+bio: "Soy una persona versátil, transdisciplinaria y apasionada, con una formación híbrida que combina lo técnico y lo sociológico: he trabajado como arquitecto, desarrollador de Drupal, gestor de proyectos, docente, investigador y científico de datos, realizando tareas de procesamiento y visualización de datos con R y trabajando con datos geoespaciales mediante QGIS.\n
+
+Mis intereses de investigación se enmarcan en los estudios urbanos y, más concretamente, en las dinámicas de mercantilización que surgen de la interacción entre ciudades, tecnología y sociedad. Hasta la fecha, me he centrado en las desigualdades sociales y espaciales con el fin de hallar vías para lograr ciudades más sostenibles e igualitarias, mejorando así el bienestar de las personas.\n"
+affiliations:
+  - name: "University of Warwick"
+    url: "https://warwick.ac.uk"
+links:
+  # - icon: "at-symbol"
+  #   url: "mailto:alex.johnson@example.com"
+  #   label: "E-mail Me"
+  - icon: "brands/mastodon"
+    url: "https://scholar.social/ccamara"
+  - icon: "brands/github"
+    url: "https://github.com/ccamara"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/carlescamara"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=zuCP2PAAAAAJ&hl"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-9378-0549"
+  - icon: "brands/openstreetmap"
+    url: "https://www.openstreetmap.org/user/ccamara"
+interests:
+  - "Cities"
+  - "Tecnology"
+  - "Society"
+  - "Commons"
+  - "Maps"
+  - "Data Science"
+  - "Data Viz"
+  - "Internet"
+  - "Forms of resistance"
+education:
+  # - degree: "PGA TEL"
+  #   institution: "University of Warwick"
+  #   start: ""
+  #   end: "2022-02-01"
+  #   featured: false
+  - degree: "PhD Information and Knowledge Society"
+    institution: "Universitat Oberta de Catalunya"
+    start: ""
+    end: "2018-01-30"
+    summary: "Thesis on Urban Commons.\n"
+    button:
+      text: "Download dissertation"
+      url: "/resume.pdf"
+      icon: "hero/arrow-down-tray"
+  - degree: "MS Information and Knowledge Society"
+    institution: "Universitat Oberta de Catalunya"
+    start: "2011-09-01"
+    end: "2012-07-16"
+    summary: "Dissertation on participatory urbanism. Published one peer-reviewed article."
+    button:
+      text: "Read paper"
+      url: "https://urbs.xoc.uam.mx/index.php/urbs/article/view/338"
+      icon: "hero/link"
+  - degree: "M Architecture"
+    institution: "Universitat Politècnica de Catalunya"
+    start: "1998-09-01"
+    end: "2004-07-01"
+experience:
+  - role: "Senior Research Software Engineer"
+    org: "Centre for Interdisciplinary Methodologies, University of Warwick"
+    start: "2021-12-01"
+    summary: "Leading the Interdisciplinary RSE team.\n"
+    button:
+      text: "View my institutional profile"
+      url: "https://profiles.warwick.ac.uk/u2071219-carlos-camara"
+      icon: "hero/link"
+  - role: "SSI Fellow"
+    org: "Software Sustainability Institute"
+    start: "2026-02-01"
+  - role: "Research Fellow"
+    org: "University of Warwick"
+    start: "2021-02-01"
+    end: "2021-11-30"
+    summary: "Leading codesign process for data visualisations on Food-Water-Energy Nexus as part of the Creating Interfaces project.\n"
+    button:
+      text: "Read associated paper"
+      url: "https://doi.org/10.1016/j.envsci.2024.103712"
+      icon: "hero/document"
+  - role: "Associate Lecturer and Researcher"
+    org: "Oxford Brookes University"
+    start: "2020-09-01"
+    end: "2021-03-01"
+    summary: "Associate Lecturer at the School of the Built Environment. Researcher at the PEST Project"
+  - role: "Associate Lecturer"
+    org: "Universitat Oberta de Catalunya"
+    start: "2020-09-01"
+    end: "2021-03-01"
+    summary: "Final Theses supervisor and lecturing module 'Global Urbanisms' at the [Master of Cities and Urbanism](https://www.uoc.edu/es/estudios/masters/master-universitario-ciudad-urbanismo)"
+  - role: "Lecturer"
+    org: "Universidad San Jorge"
+    start: "2009-09-01"
+    end: "2019-08-31"
+    summary: "Lecturer at the School of Architecture and Technology. Module convenor of Digital Tools, Urban Studies I, Open Classroom. I received two teaching innovation awards for my research-led teaching."
+  - role: "GIS and participation technician"
+    org: "Ciclica"
+    start: "2018-06-01"
+    end: "2019-01-31"  
+    summary: "GIS Technician designing tasks' automation by QGIS Processing models for a project aimed to assess Building’s Energy consumption at city scale."
+  - role: "Architect"
+    org: "Self employed"
+    start: "2004-07-01"
+    end: "2009-09-01"
+
+skills:
+  - name: "Technical Skills"
+    items:
+      - label: "Python"
+        level: 5
+      - label: "Machine Learning"
+        level: 5
+      - label: "Cloud Computing"
+        level: 4
+  - name: "Research & Communication"
+    items:
+      - label: "Academic Writing"
+        level: 5
+      - label: "Conference Presentations"
+        level: 4
+      - label: "Grant Proposals"
+        level: 4
+languages:
+  - name: "Spanish"
+    level: 5
+    label: "Native"
+  - name: "Catalan"
+    level: 5
+    label: "Native"
+  - name: "English"
+    level: 4.5
+    label: "Fluent"
+awards:
+  - title: "IND+I Science Award. Metropolitan Innovation Policy category"
+    awarder: "Ayuntamiento de Viladecans el Àrea Metropolitana de Barcelona, el Pacte Industrial de la Regió Metropolitana de Barcelona, el Pla Estratègic Metropolità de Barcelona y el Institute of Innovation and Public Purpose de la University College of London"
+    date: "2018-01-01"
+    summary: "Awarded for my research on Urban Commons."
+    icon: "hero/trophy"
+  - title: "García Mercadal Award – Runner-up Prize. Category: Removal of architectural barriers."
+    awarder: "Colegio de Arquitectos de Aragón"
+    date: "2018-09-02"
+    icon: "hero/trophy"
+    summary: "Awarded for the gap reduction in urban accessibility for the project Accessible Zaragoza"
