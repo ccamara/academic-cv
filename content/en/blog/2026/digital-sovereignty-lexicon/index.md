@@ -64,7 +64,7 @@ This over-representation of US big tech along with their monopolistic practices 
 
 ### Who is working on Digital sovereignty?
 
-##### Governmental
+#### Governmental
 - **European Commission — Digital Sovereignty Strategy**: The EU's overarching framework including the GDPR, Digital Markets Act, Digital Services Act, and AI Act. Aims to regulate Big Tech, protect citizens' data, and reduce Europe's dependency on foreign digital infrastructure.[digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu)
 - **France–Germany Digital Sovereignty Task Force:** Joint Franco-German initiative launched in November 2025 to develop a common definition of European digital services, sovereignty indicators for cloud and AI, and measures to promote European competitiveness and tech independence. [elysee.fr](https://www.elysee.fr/en/emmanuel-macron/2025/11/18/summit-on-european-digital-sovereignty-delivers-landmark-commitments-for-a-more-competitive-and-sovereign-europe)
 - **Canada's Digital Sovereignty Framework:** a framework aimed to improve Canada's “digital readiness” to “manage and protect its data, systems and infrastructure to operate securely and independently in a globally connected environment”. [https://www.canada.ca/](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/digital-sovereignty/digital-sovereignty-framework-improve-digital-readiness.html)
@@ -77,7 +77,7 @@ This over-representation of US big tech along with their monopolistic practices 
 - https://europemadesoftware.eu/
 - [Indieweb](https://indieweb.org)
 
-# DPI and Digital Sovereignty
+## DPI and Digital Sovereignty
 
 Digital Public Infrastructure (DPI) has emerged as one of the most prominent policy instruments through which states, particularly in the Global South, seek to translate [[Digital Sovereignty|digital sovereignty]] commitments into operational practice. 
 
