@@ -1,5 +1,5 @@
 ---
-title: "No Vibes, Just Struggle: Notes From a Research Software Engineer"
+title: "No Vibes, Just Struggle: Notes From a Research Software Engineer on Vive Coding"
 summary: "On AI-assisted coding, a personal reflection for Convivial Code workshop"
 date: 2026-06-11
 draft: false
@@ -39,7 +39,7 @@ content_meta:
 
 <!-- Tip: open with the why, then show results, code, and next steps. -->
 
-Last 14th May, I participated in the workshop "Convivial Code: The Politics and Pedagogies of Vibe Coding", organised by [Centre for Interdisciplinary Methodologies](https://warwick.ac.uk/cim) and the [Centre for Digital Enquiries](https://warwick.ac.uk/fac/cross_fac/cdi/) at the University of Warwick.
+Last 14th May, I participated in the workshop "Convivial Code: The Politics and Pedagogies of Vibe Coding", organised by the [Centre for Interdisciplinary Methodologies](https://warwick.ac.uk/cim) and the [Centre for Digital Enquiries](https://warwick.ac.uk/fac/cross_fac/cdi/) at the University of Warwick.
 The workshop takes a cue from Illich’s notion of convivial tools: technics that expand autonomous, imaginative use without requiring prior certification or imposing compulsory dependence and moved beyond vibe-coding specifically to further ask what a politics of convivial code might look like today? (e.g., publicly-led, democratic governance of technology capable of attending to the challenges of the current conjuncture: pluralization versus monopolization, autonomy versus dependence, and situated invention versus the norm-seeking tendencies of generative output).
 
 The workshop was a hybrid session combining methods workshop, studio and [research seminar](https://www.youtube.com/watch?v=tJkPO7IcDBk&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fwarwick.ac.uk%2F) (see recording below) to chart this domain; where staff and student participants tested AI infrastructures, discussed their implications and develop a shared critical understanding of the potentials, limits and harms of AI-assisted programming.  I had the opportunity to give a short talk in which I shared my positionality and concerns in relation to AI in general and vive coding in particular. The talk was controversial, insofar it raised some opposition, but also interesting questions and reactions, so I wanted to share it here, hopefully to continue discussions.
