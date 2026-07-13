@@ -8,9 +8,11 @@ draft: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: Fotografía de los premiados en las distintas categorías del García Mercadal 2017
+  preview_only: false
 
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  image: "featured.jpg"
+  caption: Fotografía de los premiados en las distintas categorías del García Mercadal 2017
   position:
     x: 50
     y: 40
@@ -21,9 +23,9 @@ cover:
     gradient: "bottom"
   fade:
     enabled: true
-    height: "80px"
+    height: "30px"
   icon:
-    name: "✨"
+    name: "🏆"
 
 # Authors are matched to profiles in content/authors/
 authors:

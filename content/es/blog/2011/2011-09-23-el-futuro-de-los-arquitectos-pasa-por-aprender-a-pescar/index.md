@@ -46,7 +46,7 @@ content_meta:
 
 Hace unas semanas el Decano del [Colegio de Arquitectos de Cataluña](http://coac.cat), Lluis Comeron, se manifestaba ante la "alarmante" situación que vivimos los arquitectos tras la publicación[^1] de un informe que analiza la evolución de los visados a partir de varios datos relacionados con los visados[^2]. El Decano reclamaba en la carta&nbsp; "más implicación a las administraciones" con el objetivo de conseguir que la construcción llegue, como mínimo, al 6% del PIB en los próximos meses en lugar del 2% actual a la vez que y alertaba *"de la posible pérdida de otros 100.000 puestos de trabajo en el sector de la construcción"* en Cataluña *"en un año en el que no se ha proyectado ni un metro cuadrado de vivienda pública"*
 
-{{< figure src="/img/post/sup-visada.png" caption="Evolución de la superficie visada (1992-2011). Fuente: Informe del COAC" >}}
+{{< figure src="sup-visada.png" caption="Evolución de la superficie visada (1992-2011). Fuente: Informe del COAC" >}}
 
 <p>Es cierto que los datos que refleja el informe no son nada halagüeños y permiten cuantificar algunos datos sospechados y otros conocidos, tal es el caso como el descenso en el número de viviendas visadas, que se sitúa a valores equivalentes a los del año 1960 o que el número de ocupados en el sector en Cataluña haya pasado de 440.000 en 2006 a 250.000 en 2011 según <a href="http://idescat.cat">Idescat</a>. Sin embargo no creo que aporte nada nuevo, tanto desde el punto de vista de los datos analizados como desde el punto de vista de las conclusiones que el Colegio saca de él. Trataré de justificar un poco más mi afirmación a partir de estos dos aspectos.<!--break--></p>
 

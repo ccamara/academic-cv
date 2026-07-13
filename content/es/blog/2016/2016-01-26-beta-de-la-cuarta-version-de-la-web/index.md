@@ -7,10 +7,10 @@ draft: false
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: Credit or context (Markdown supported)
+  caption: Captura de pantalla
 
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  image: ""
   position:
     x: 50
     y: 40
@@ -56,7 +56,7 @@ content_meta:
 <ol><li>Siempre tengo claro lo que tengo que hacer, incluso cuando pasan largos periodos de tiempo entre desarrollo y desarrollo.</li><li>Es una excelente forma de consulta. Aunque pueda sonar un poco enfermizo, las "conversaciones" que tengo con mi mismo en las issues, aportando documentación o comentarios, son una ayuda excelente para que no olvide nada y no pierda tiempo buscando información cada vez que intento solucionar algo.</li><li>Cada commit de git está asociado a una issue de gitlab, con lo cual se puede relacionar el log de git con cada issue y viceversa, facilitando el seguimiento del estado de una tarea y haciendo facil la opción de revertir cualquier cambio en caso necesario.</li><li>Utilizar estos métodos, hablarme en inglés... aunque no sean muy naturales son una forma de no perder "estado de forma", para el día en el que vuelva a trabajar en equipo.</li><li>Permite un sistema de desarrollo iterativo (ver a continuación).</li></ol>
 
 <h3>Proyecto mínimo viable y desarrollo iterativo</h3>
-<p><img alt="" src="/img/post/captura_de_pantalla_feta_el_2016-01-25_a_les_23.12.02.png" title=""></p>
+<p><img alt="" src="captura_de_pantalla_feta_el_2016-01-25_a_les_23.12.02.png" title=""></p>
 
 <p>Como comentaba anteriormente, la reestructuración del site se debía a dos objetivos principales: por un lado poder volver a escribir (apenas escribí nada durante 2015 y eso se debió en gran parte -aunque no exclusivamente- a problemas técnicos), y por otro tener un sitio que mejorase considerablemente a nivel técnico. El problema es que hay tanto por mejorar que, de querer tener resueltos todos los aspectos que quiero desarrollar, me demoraría tanto (especialmente si tenemos en cuenta mi tiempo limitado) que no haría posible cumplir con el primer objetivo. Por todo ello, y gracias al sistema de trabajo utilizado que he descrito anteriormente, decidí salir con un <a href="http://en.wikipedia.org/wiki/Minimum_viable_product" target="_blank">producto mínimo viable</a> que que diese respuesta a las necesidades más básicas al que iría añadiendo mejoras de forma incremental. Una vez asumido que el sitio estará en un estado de casi-beta-permanente, lo demás todo son buenas noticias: con el tiempo se irán viendo las novedades y yo no me agobiaré por tenerlo todo listo a pesar de mi poco tiempo para desarrollarlo.</p>
 <h3>Theme responsive</h3>
