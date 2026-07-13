@@ -2,28 +2,12 @@
 title: Reflexiones sobre la necesidad de regular (o no) la obligatoriedad de usar BIM en obra pública.
 summary: ""
 date: 2018-05-30
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ""
-
-cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
 
 # Authors are matched to profiles in content/authors/
 authors:
@@ -41,9 +25,7 @@ content_meta:
   trending: false
 ---
 
-<!-- Tip: open with the why, then show results, code, and next steps. -->
-
-Hace años, en 2009, [me preguntaba]({{< relref "post/2009/2009-01-08-del-cad-al-bim.md" >}}) acerca de por qué el BIM, siendo que tenía una serie de ventajas innegables frente a trabajar con programas de CAD, apenas se utilizaba en España salvo en honrosas excepciones y contrariamente a lo que ocurría en otros países. Hoy, sin que tenga claro los motivos que han llevado a ello, la situación se ha invertido considerablemente y ya casi nadie se cuestiona su utilización, si bien no tengo claro que sea lo más utilizado, por lo menos aquí.
+Hace años, en 2009, [me preguntaba]({{< relref "blog/2009/2009-01-08-del-cad-al-bim.md" >}}) acerca de por qué el BIM, siendo que tenía una serie de ventajas innegables frente a trabajar con programas de CAD, apenas se utilizaba en España salvo en honrosas excepciones y contrariamente a lo que ocurría en otros países. Hoy, sin que tenga claro los motivos que han llevado a ello, la situación se ha invertido considerablemente y ya casi nadie se cuestiona su utilización, si bien no tengo claro que sea lo más utilizado, por lo menos aquí.
 
 Seguramente tenga bastante que ver con este cambio de tendencia aspectos como el que leía recientemente (aunque probablemente no sea el único): la **[Ley 9/2017](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20171229&tn=1) determina la obligatoriedad de utilizar BIM en obra pública española a partir de 2018**. Dicha ley especifica que:
 

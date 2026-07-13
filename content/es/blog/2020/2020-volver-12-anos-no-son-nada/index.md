@@ -2,28 +2,12 @@
 title: Volver… 12 años no es nada (o sí)
 summary: ""
 date: 2020-02-27
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: Los edificios no son como Jordi Hurtado, envejecen
-
-cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
 
 # Authors are matched to profiles in content/authors/
 authors:
@@ -35,8 +19,6 @@ tags:
 content_meta:
   trending: false
 ---
-
-<!-- Tip: open with the why, then show results, code, and next steps. -->
 
 No descubro nada nuevo si digo que **los edificios envejecen**. Tampoco que, como las personas, pueden envejecer bien o mal. [Jose Maria Echarte ya escribió aquí](https://blogfundacion.arquia.es/2019/08/chorretes-manchas-y-arrugas/) sobre saber envejecer (y saber apreciar la vejez), hoy quiero hablar de lo contrario.
 

@@ -2,28 +2,12 @@
 title: "Sobre accesibilidad, Google y datos abiertos: no todo es oro lo que reluce"
 summary: ""
 date: 2018-03-22
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: Credit or context (Markdown supported)
-
-cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
+  caption: ''
 
 # Authors are matched to profiles in content/authors/
 authors:
@@ -37,8 +21,6 @@ tags:
 content_meta:
   trending: false
 ---
-
-<!-- Tip: open with the why, then show results, code, and next steps. -->
 
 ## Google incorpora datos de accesibilidad a sus mapas y no estoy seguro de que sea una buena noticia.
 

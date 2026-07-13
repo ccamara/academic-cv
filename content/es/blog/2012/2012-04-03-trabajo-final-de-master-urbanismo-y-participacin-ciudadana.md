@@ -1,29 +1,14 @@
 ---
-title: "Trabajo final de M\xE1ster: urbanismo y participaci\xF3n ciudadana"
+title: "Trabajo final de Máster: urbanismo y participación ciudadana"
 summary: ""
 date: 2012-04-03
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: Credit or context (Markdown supported)
+  caption: ''
 
-cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
 
 # Authors are matched to profiles in content/authors/
 authors:
@@ -41,7 +26,5 @@ tags:
 content_meta:
   trending: false
 ---
-
-<!-- Tip: open with the why, then show results, code, and next steps. -->
 
 <p>Quienes me conozcan o lean con cierta regularidad sabrán que desde hace unos meses inicié la aventura de matricularme en el <a class="ext" href="http://www.uoc.edu/estudios/masters-universitarios/sociedad-informacion/presentacion/index.html" target="_blank">Máster Universitario en Sociedad de la Información y el Conocimiento</a> que imparte la Universitat Oberta de Catalunya. A día de hoy me encuentro en la recta final del curso y estoy preparando el Trabjo Final de Máster que además de llevarme a la obtención de un título muy deseado (y sufrido), espero que me sirva para tratar de responder una de las dudas que tenía cuando <a href="http://carloscamara.es/blog/2011/09/21/vuelvo-ser-estudiante">escribí acerca de los motivos que me llevaron a tomar la decisión</a> (<em>¿tiene algo que ver este máster con mis estudios, mi profesión y una de mis pasiones -la arquitectura?</em>) y para profundizar en un tema que hace tiempo que vengo observando y digiriendo de forma crítica pero pasiva: el urbanismo participativo.</p><p>Por el momento es pronto para dar más detalles acerca de mi Trabajo Final de Máster pero puedo decir que trata sobre participación ciudadana y urbanismo (¡menuda sorpresa! eso ya lo decía el título!) y que <a href="http://tfm.carloscamara.es">he creado un sitio web temático exclusivo</a> dedicada sobretodo a los "muy cafeteros": investigadores o interesados/expertos en la materia. Tal y como cuento en la <a href="http://tfm.carloscamara.es/sobre-esta-web">presentación del sitio</a>, en el que explico más detalladamente el tipo de contenido que puede llegar a tener, he decidido hacerlo por motivos prácticos (creo que gracias a la información y a la participación y discusión que pueda establecerse con los lectores/prosumers el resultado final será mejor) y por motivos de coherencia (dado que el tema es sobre la participación me ha parecido interesante plantearlo de forma que la participación tenga también su lugar). Además, espero que sirva también para continuar con la discusión más allá de cuando llegue la fecha de entregar el trabajo. Lo que no cuento allí es que, además, tenía ganas de experimentar con la creación de webs, que hace un poco que tengo parada y tenía ganas de probar algunas cosas interesantes como la utilización de <a href="http://drupal.org/documentation/install/multi-site">multisites</a> en combinación con <a href="http://drush.ws">drush</a>, la utilización de cuestionarios relativamente complejos, la <a href="http://tfm.carloscamara.es/newsletter/tfm-urbanismo-y-participaci-n-ciudadana-newsletter">utilización de boletines</a> o la integración con <a href="http://disqus.com">disqus</a>.<!--break--></p><p>En cualquier caso, y en realidad este era el objetivo de este post (lo reconozco, sigh), os animo a que visitéis la web que he dedicado al TFM y, la déis a conocer entre familiares, amigos, colegas... y muy especialmente, que participéis en ella. Por lo pronto en estos momentos está disponible un <a href="http://tfm.carloscamara.es/cuestionario-sobre-participaci%C3%B3n-ciudadana-y-urbanismo-i">cuestionario abierto a todo el mundo</a> (me interesa sobretodo la opinión de gente que no sea arquitecta) que agradecería enormemente que pudiéseis responder. Es solo una sugerencia ;)</p><p>&nbsp;</p>

@@ -2,7 +2,7 @@
 title: Premio IND+I Science a Políticas de innovación metropolitana
 summary: ""
 date: 2018-02-09
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,7 +10,7 @@ image:
   caption: "Un momento de la sesi\xF3n de entrega de premios. Foto: IND+I"
 
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  image: "featured.jpg"
   position:
     x: 50
     y: 40
@@ -23,7 +23,7 @@ cover:
     enabled: true
     height: "80px"
   icon:
-    name: "✨"
+    name: "🏆"
 
 # Authors are matched to profiles in content/authors/
 authors:
@@ -40,9 +40,7 @@ content_meta:
   trending: false
 ---
 
-<!-- Tip: open with the why, then show results, code, and next steps. -->
-
-Aunque el anuncio oficial había sido hacía ya varios días, ayer tuvo lugar la ceremonia de entrega de premios [IND+I Science](http://indi.cat/indi-science/)[^INDI], donde recibí el premio de la categoria de **"Políticas de innovación metropolitana"** por mi [investigación doctoral sobre comunes urbanos]({{< ref "/publication/2018-comunes-urbanos-lecciones-desde-barcelona" >}}). <!--more-->
+Aunque el anuncio oficial había sido hacía ya varios días, ayer tuvo lugar la ceremonia de entrega de premios [IND+I Science](http://indi.cat/indi-science/)[^INDI], donde recibí el premio de la categoria de **"Políticas de innovación metropolitana"** por mi [investigación doctoral sobre comunes urbanos]({{< relref "publications/2018-comunes-urbanos-lecciones-desde-barcelona" >}}). <!--more-->
 
 {{< x user="INDI_viladecans" id="960439120446320640" >}}
 
@@ -77,4 +75,4 @@ Sin más, os dejo algunos tuits que resumen parte de la intervención y el debat
 
 
 [^INDI]: [IND+I Science](http://indi.cat/indi-science/) es una iniciativa para promover la investigación científica y la innovación impulsada por el [Ayuntamiento de Viladecans](http://www.viladecans.cat) el [Àrea Metropolitana de Barcelona](http://www.amb.cat), el [Pacte Industrial de la Regió Metropolitana de Barcelona](http://www.pacteindustrial.org/), el [Pla Estratègic Metropolità de Barcelona](http://www.pemb.cat/) y el [Institute of Innovation and Public Purpose de la University College of London](https://www.ucl.ac.uk/bartlett/public-purpose/home)
-[^doctorado]: Más información sobre la investigación en [investigación doctoral sobre comunes urbanos]({{< relref "/es/publication/2018-comunes-urbanos-lecciones-desde-barcelona" >}}).
+[^doctorado]: Más información sobre la investigación en [investigación doctoral sobre comunes urbanos]({{< relref "publications/2018-comunes-urbanos-lecciones-desde-barcelona" >}}).

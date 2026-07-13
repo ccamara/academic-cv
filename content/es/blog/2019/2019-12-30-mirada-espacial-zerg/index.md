@@ -2,7 +2,7 @@
 title: Una mirada espacial de los Zerg… y del capital
 summary: ""
 date: 2019-12-30
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,7 +10,7 @@ image:
   caption: ""
 
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  image: "featured.jpg"
   position:
     x: 50
     y: 40
@@ -39,8 +39,6 @@ tags:
 content_meta:
   trending: false
 ---
-
-<!-- Tip: open with the why, then show results, code, and next steps. -->
 
 En 1998 salía a la luz [Starcraft](https://es.wikipedia.org/wiki/StarCraft), un juego de estrategia en tiempo real revolucionario que se convertiría en un referente. Ambientado en un futuro de ciencia-ficción, tres razas luchan para asegurar su supervivencia: los humanos [Terran](https://starcraft.fandom.com/wiki/Terran), los enigmáticos y avanzados [Protoss](https://starcraft.fandom.com/wiki/Protoss) y los alienígenas [Zerg](https://starcraft.fandom.com/wiki/Zerg), cuya única motivación es arrasarlo todo. Cada una de dichas razas tiene unas particularidades propias que hace que jugar con una u otra sea totalmente distinto, pero hoy hablaré de una de ellas, los Zerg.
 

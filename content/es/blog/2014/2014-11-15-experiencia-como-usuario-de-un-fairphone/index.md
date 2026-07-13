@@ -2,7 +2,7 @@
 title: Experiencia como usuario de un Fairphone
 summary: ""
 date: 2014-11-15
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,7 +10,7 @@ image:
   caption: Mi Fairphone
 
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  image: "featured.jpg"
   position:
     x: 50
     y: 40
@@ -38,9 +38,7 @@ content_meta:
   trending: false
 ---
 
-<!-- Tip: open with the why, then show results, code, and next steps. -->
-
-A raiz del [post en el que hablé sobre el Fairphone]({{< relref "es/post/2014/2014-03-09-fairphone-el-telefono-mas-justo-el-principio-de-un-cambio" >}}) y todo el bombo y platillo que le he dado a mis amistades y conocidos, son varias las personas que me han preguntado (en persona, por correo o a través de redes sociales) acerca de él, así que en este post trataré de explicar mis impresiones personales.
+A raiz del [post en el que hablé sobre el Fairphone]({{< relref "blog/2014/2014-03-09-fairphone-el-telefono-mas-justo-el-principio-de-un-cambio" >}}) y todo el bombo y platillo que le he dado a mis amistades y conocidos, son varias las personas que me han preguntado (en persona, por correo o a través de redes sociales) acerca de él, así que en este post trataré de explicar mis impresiones personales.
 <p>La respuesta corta es que podría resumir estos 11 meses de propietario como una relación con sus más y sus menos, pero he de reconocer que la valoración global es bastante positiva y estoy convencido que el Fairphone es una alternativa a tener en cuenta para buena parte de públicos.</p>
 <p>La respuesta larga viene a continuación:Antes de enumerar los pros y contras del Fairphone me gustaría dejar claro cuál es mi perfil como usuario de un smartphone, pues mis valoraciones pueden no coincidir con las de otras personas.<br>Empezaré diciendo que antes de tener un fairphone solo he tenido otro smartphone, un <a href="https://en.wikipedia.org/wiki/HTC_Desire" class="ext" target="_blank">HTC Desire</a> al que, para alargarle su vida útil sustituí la ROM de serie (Android 2.1 con HTC sense) por una ROM personalizada de <a href="http://en.miui.com/" class="ext" target="_blank">MIUI</a> (Android 2.3, basado en <a href="http://www.cyanogenmod.org/" class="ext" target="_blank">CyanogenMOD</a>). Sirva esto para señalar dos cosas importantes: 1) mi referencia con la que comparo el Fairphone es un teléfono del año 2010 con unas prestaciones muy inferiores, así que es normal que en este sentido haya notado una gran mejoría y 2) soy un usuario con ciertos conocimientos técnicos al que no le gusta&nbsp; conformarse con lo que viene de serie y no me importa tener que tocar el teléfono para poder tener el máximo de control sobre él.</p>
 <p>Dicho esto añadiré que soy una persona que utiliza el smartphone a diario, llama relativamente poco (aproximadamente unos 200 minutos al mes), apenas manda sms y consumo&nbsp; unos 300MB de datos al mes (solo me conecto cuando lo necesito y siempre que puedo utilizo WIFI). El uso que le doy es, sobre todo, profesional (aplicaciones de correo, calendario, tareas, tethering...) y, aunque apenas tengo juegos (y los que tengo son muy sencillitos), también lo uso para ocio. En este sentido me gusta usar aplicaciones de Mapas y GPS para mis aficiones de <a href="https://geocaching.com" class="ext" target="_blank">Geocaching</a> o para cuando salgo a correr o en bici o para contribuir a <a href="https://openstreetmap.org" class="ext" target="_blank">OpenStreetMap</a>.</p>
