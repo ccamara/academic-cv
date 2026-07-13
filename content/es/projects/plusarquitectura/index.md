@@ -1,12 +1,12 @@
 ---
 title: +arquitectura
 date: 2004-06-15T12:05:33+01:00
-draft: true
+draft: false
 summary: "Comunidad online de arquitectura."
 
 links:
-  - type: site
-    url: "https://github.com/your-org/your-project"
+  # - type: site
+  #   url: "https://github.com/your-org/your-project"
 
 tags:
   - Drupal

@@ -1,0 +1,44 @@
+---
+title: El teléfono nuevo del emperador
+summary: ""
+date: 2012-09-14
+draft: true
+
+# Featured image for cards/social
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: Credit or context (Markdown supported)
+
+cover:
+  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  position:
+    x: 50
+    y: 40
+  overlay:
+    enabled: true
+    type: "gradient"
+    opacity: 0.4
+    gradient: "bottom"
+  fade:
+    enabled: true
+    height: "80px"
+  icon:
+    name: "✨"
+
+# Authors are matched to profiles in content/authors/
+authors:
+  - me
+
+tags:
+  - apple
+  - obsolescencia programada
+  - Cultura digital
+  - Pensamiento y crítica
+
+content_meta:
+  trending: false
+---
+
+<!-- Tip: open with the why, then show results, code, and next steps. -->
+
+<p>Lo reconozco, siento muy poca simpatía hacia la marca de la manzanita. No es que el diseño de los productos de Apple me deje indiferente, o que no valore su sistema operativo o su apuesta por la innovación. El problema que le veo a la compañía son sus numerosos puntos oscuros, por mucho que sus productos sean blancos. Uno de esos aspectos negativos es, sin duda, el estudiado plan con el que sacan a la venta nuevos productos y retiran los "viejos", es decir, su <a href="http://es.wikipedia.org/wiki/Obsolescencia_programada">obsolescencia programada</a>. Y es que la mayoría de sus productos, tras apenas un año de vida (y a pesar de que es difícil encontrar alguno que cueste menos de tres cifras), quedan supuestamente obsoletos frente a las nuevas versiones de los mismos. Incluso aunque las nuevas funcionalidades sean la incorporación de funcionalidades con una relevancia relativa como copiar y pegar, o cámaras con mayor resolución.&nbsp;</p><p>Tal y como explican muy bien el reportaje "<a href="http://www.rtve.es/alacarta/videos/el-documental/documental-comprar-tirar-comprar/1382261/">Comprar, tirar, comprar</a>" y la <a href="http://www.rtve.es/television/documentales/comprar-tirar-comprar/">página especial de TV2</a>, esta práctica deliberada llevada a cabo por varias empresas se traduce en un consumo más elvado que a su vez se traduce por un lado en más ventas para las empresas y por el otro en mayores gastos, tanto para los consumidores, que gastan de forma innecesaria, y para el planeta, que tiene que asumir toneladas de residuos con una vida muy superior a la vida útil del objeto y por supuesto debe hacer frente a una mayor demanda energética para producir y distribuir el nuevo stock.</p><p>Hoy, navegando, he encontrado el vídeo que encabeza este post en el que se ofrece a varias personas la posibilidad de probar un supuesto iPhone5 para dar su valoración al respecto. Lo realmente significativo es que el iPhone 5 todavía no ha salido a la venta y por tanto lo que las personas del vídeo tienen en sus manos es en realidad la última versión disponible hasta el momento, el iPhone 4S. A pesar de ello los entrevistados no dejan de resaltar las supuestas mejoras de esta nueva versión respecto al modelo anterior (el mismo que han estado usando), tal es el poder de sugestión que posee la manzana una vez se ha mordido.</p><p>Este vídeo en clave de humor me ha parecido muy relevante porque por un lado refleja muy claramente esta obsolescencia de los productos de Apple, ¡incluso antes de que salgan al mercado sus nuevos productos! y por otro refleja también la gran capacidad de autosugestión que tenemos las personas, pudiendo llegar incluso a ver únicamente aquello que queremos ver o aquello que nos hacen creer. Hasta que, como en el <a href="http://www.ciudadseva.com/textos/cuentos/euro/andersen/trajenue.htm">cuento de Andersen</a>, alguien nos señala que en realidad el emperador está desnudo.</p>

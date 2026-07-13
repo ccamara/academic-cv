@@ -38,6 +38,7 @@ sections:
     id: papers
     content:
       title: Publicaciones destacadas
+      count: 9
       filters:
         folders:
           - publications
@@ -90,7 +91,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: article-grid
+      columns: 2
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

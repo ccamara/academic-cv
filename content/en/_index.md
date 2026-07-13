@@ -50,6 +50,7 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      count: 9
       filters:
         folders:
           - publications
