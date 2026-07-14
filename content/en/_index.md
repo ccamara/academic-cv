@@ -62,7 +62,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: ''
+      text: 'This list is not complete. Refer to my [ORCID profile](https://orcid.org/my-orcid?orcid=0000-0002-9378-0549) for an up-to-date listing of academic outputs.'
       filters:
         folders:
           - publications
