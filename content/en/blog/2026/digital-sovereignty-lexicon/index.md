@@ -1,13 +1,13 @@
 ---
 title: "Digital Sovereignty - Lexicon Entry"
-summary: "A firt version of a Lexigon"
+summary: "A firt version for a Governance Lexicon for Digital Public Infrastructures"
 date: 2026-04-30
 draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Credit or context (Markdown supported)'
+  caption: ''
 
 cover:
   image: "featured.png"
