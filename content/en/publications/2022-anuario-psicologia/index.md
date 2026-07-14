@@ -1,5 +1,5 @@
 ---
-title: 'Elementos ético-políticos en investigación e intervención: reflexiones desde la psicología social'
+title: 'Ethical-political elements in research and intervention: reflections from social psychology'
 authors:
 - Pep Vivas i Elias
 - Óscar López-Catalán
@@ -16,14 +16,14 @@ date: &id001 2022-05-09 00:00:00
 publishDate: *id001
 publication_types:
 - article-journal
-publication: Anuario de Psicología/The UB Journal of Psychology
+publication: "_Anuario de Psicología/The UB Journal of Psychology_"
 publication_short: ''
-abstract: 'Asumiendo que la psicología social es directa, intrínseca, total y fundamentalmente política (Ibáñez, 1983), en este texto realizamos una breve reflexión en relación con el carácter político y ético del quehacer en psicología social. Para ello, abordamos, en un primer apartado, por qué es importante considerar lo político y lo ético en la disciplina. A continuación, en el segundo apartado, desarrollamos algunos elementos que podemos usar, como psicólogos/as sociales, tanto en el ámbito de la investigación como de la intervención: la reflexividad y problematización; la crítica del saber experto; la accesibilidad; el compromiso, el trabajo artesanal o los aprendizajes. Finalmente, en el tercer apartado presentamos una serie de conclusiones sobre la interrelación de estos elementos, su aplicación práctica y algunos de sus posibles límites.'
+abstract: 'Assuming  that  social  psychology  is  directly,  intrinsically,  totally  and  fundamentally  political  (Ibáñez,  1983),  in  this  text  we  make  a  brief  reflection  in  relation  to  the  political  and  ethical  character  of  the  work  in  social  psychology.  In  a first section we tackle why is it important to consider the political and the ethical aspects in our discipline. Then, in the second section, we develop some elements that we can use, as social psychologists both in the field of research and intervention:  reflexivity  and  problematisation;  the  issue  of  expert knowledge; accessibility, commitment, craftmanship or  learning.  Finally,  in  the  third  section,  we  present  some  conclusions  about  the  interrelation  between  those  topics,  their application and some of their possible limitations.'
 summary: ''
 tags:
-- psicología social
-- ética
-- política
+- social psychology
+- ethics
+- politics
 featured: false
 hugoblox:
   ids:

@@ -8,6 +8,7 @@ draft: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ""
+  preview_only: true
 
 cover:
   image: ""
@@ -37,15 +38,17 @@ content_meta:
   trending: false
 ---
 
-<!-- Tip: open with the why, then show results, code, and next steps. -->
-
-{{< gallery >}}
+{{< youtube MTtfXY67Xgs >}}
 
 A principios de verano tuve la oportunidad de conversar con [Dario Núñez](https://twitter.com/Darionug) para uno de los [arquicafes de Stepien y Barno](https://www.stepienybarno.es/blog/tag/arquicafe/). Para quienes no lo conozcan, se trata de ~~entrevistas~~ conversaciones distendidas y relativamente breves con arquitectos, en formato podcast.
 
+
+
 Lo cierto es que pese a no haber hablado con anterioridad con Darío, pasé un tiempo muy agradable con él charlando de temas que me apasionan, y que comparto por aquí con la intención de que os pueda resultar interesante.
 
-{{< youtube MTtfXY67Xgs >}}
+{{< gallery >}}
+
+
 
 Los temas (veréis que muy variados) sobre los que tratamos fueron:
 
@@ -59,7 +62,7 @@ Los temas (veréis que muy variados) sobre los que tratamos fueron:
 * **Productividad y metodologías ágiles** ([minuto 23:00](https://youtu.be/MTtfXY67Xgs?t=1380)) como SCRUM, una metodología de trabajo que apliqué en mi etapa como desarrollador drupal en Ymbra y trato de aplicar siempre que puedo en cualquier ámbito (arquitectura, investigación...).
 
 
-El vídeo lo podréis encontrar en este enlace, y el post original en [este otro](https://www.stepienybarno.es/blog/2020/08/11/arquicafe-con-carlos-camara/).
+El vídeo lo podréis encontrar en [este enlace](https://www.youtube.com/watch?v=MTtfXY67Xgs&source_ve_path=MjM4NTE&embeds_referring_euri=http%3A%2F%2Flocalhost%3A1313%2F), y el post original en [este otro](https://www.stepienybarno.es/blog/2020/08/11/arquicafe-con-carlos-camara/).
 
 
 {{< x user="Darionug" id="1293436230475055104" >}}

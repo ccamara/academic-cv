@@ -4,31 +4,28 @@ authors:
 - me
 author_notes:
 - ''
-date: 2019-04-01 00:00:00
-publishDate: 2019-04-01
+date: &id001 2019-04-01 00:00:00
+publishDate: *id001
 publication_types:
 - book-chapter
-
-publication: "Disciplines of the City: New Forms of Governance in Today's Postmetropolises"
-
+publication: 'Disciplines of the City: New Forms of Governance in Today''s Postmetropolises'
 publication_short: ''
-
 abstract: 'Within a context of austerity, city governance policies have been devoted to attracting capital either from external sources or by a series of privatisation policies, submitting any kind of social concern to this mercantilist logic. In doing so, cities have turned into trading goods and mechanisms of dispossession that have resulted in an accentuation of social and economic inequities. It is no wonder, hence, that many voices have been raised claiming for fairer alternatives.
 
   Urban commons propose a possible response to that demand. This article offers a theoretical approach aimed to improve the comprehension of such a suggestive, yet ambiguous, term that gathers many diverse and diffuse aspirations. Centered around the ideals of sharing amongst peers, self-governance, equity and solidarity, urban commons advocate for a social and spatial justice that will be achieved by means of sharing specific endangered parts of the city.'
-summary: Urban commons as new urbanisms and forms of resistance against neoliberal cities. 
+summary: ''
 tags:
 - commons
 - urban commons
 - cities
 - social and spatial justice
 featured: true
-# hugoblox:
-#   ids:
-#     doi: ''
+hugoblox:
+  ids:
+    doi: ''
 links:
 - type: custom
-  label: "See it at Nova Publishers"
+  label: "See it publisher's site"
   url: https://novapublishers.com/shop/disciplines-of-the-city-new-forms-of-governance-in-todays-postmetropolises/
 projects:
 - urban-commons
@@ -42,8 +39,9 @@ math: true
 ---
 
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
-> [!important]
->Due to copyright, it is prohibited to reproduce books' content. This is just an excerpt of this chapter's introduction. In order to get the book, please visit [Nova Publishers' website](https://novapublishers.com/shop/disciplines-of-the-city-new-forms-of-governance-in-todays-postmetropolises/).
+> [!warning]
+> Due to copyright, it is prohibited to reproduce books' content. This is just an excerpt of this chapter's introduction. In order to get the book, please visit [Nova Publishers' website](https://novapublishers.com/shop/disciplines-of-the-city-new-forms-of-governance-in-todays-postmetropolises/).
+
 
 ## Introduction
 

@@ -50,7 +50,8 @@ sections:
     id: papers
     content:
       title: Featured Publications
-      count: 9
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 6
       filters:
         folders:
           - publications

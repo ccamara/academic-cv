@@ -1,5 +1,5 @@
 ---
-title: 'Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI. Una propuesta de caracterización desde la praxis'
+title: 'Urban Commons: Lessons from Barcelona at the Beginning of 21st Century. A characterization proposal from the praxis'
 authors:
 - me
 author_notes:
@@ -8,17 +8,16 @@ date: &id001 2018-01-30 17:13:02+01:00
 publishDate: *id001
 publication_types:
 - thesis
-publication: Tesis Doctoral
+publication: "_PhD Theses_"
 publication_short: ''
-abstract: El concepto de los comunes es tan poderosamente sugerente como ambiguo. Prueba de ello está en el creciente interés que ha experimentado en los últimos años y en que abarca ámbitos y aspiraciones tan diversas que son, a veces, contrapuestas pero comparten una visión transformadora de la ciudad y la sociedad basada en la cooperación. La presente investigación doctoral se centra en uno de los subgrupos de dichos comunes, el de los comunes urbanos, y tiene como objeto problematizarlos y comprenderlos. Para ello, tras un exhaustivo marco teórico que nos llevará a conocer las raíces y contradicciones del concepto, proponemos una lectura situada y basada en la práctica. A partir del estudio etnográfico de 29 casos (8 de ellos  analizados con exhaustividad) de la Barcelona de principios de siglo XXI confeccionamos 5 hilos discursivos alrededor de sus reivindicaciones, autogestión e institucionalización, relacionalidad, materialidad y espacialidad y tecnología y cultura libres. Es a partir
-  de su análisis donde obtenemos las claves para comprender sus vinculaciones con lo urbano y lo social y, en última instancia, caracterizar el concepto de  común urbano para determinar si, efectivamente, pueden ser auténticos motores de transformación urbana, social y económica que den lugar a proponer ciudades y sociedades alternativas más justas.
-summary: 'Tesis Doctoral'
+abstract:  "The concept of the commons is as strongly suggestive as ambiguous. This is evidenced by the growing interest in recent years which encompasses areas and aspirations so diverse that despite being contradictory sometimes, share a transformative vision based on cooperation. The present doctoral research focuses on one of the subgroups of such commons, that of urban commons, aiming to problematize and understand them. In order to achieve this, and after an exhaustive theoretical framework that will lead us to the roots and contradictions of the concept, we propose a situated approach based on the praxis. Based on an ethnographic study of 29 cases (8 of them analysed in depth) within the Barcelona of the beginning of the 21st century, we made 5 discursive threads about their demands, self-management and institutionalization, relationality, materiality and spatiality and technology and free culture. It is from their analysis that we obtain the keys to understand their links with the urban and the social and, ultimately, to characterize the concept of urban common in order to resolve if they can effectively be drivers of urban, social and economic transformation that lead to propose alternative and fairer cities and societies."
+summary: ''
 tags:
 - urban commons
-- comunes urbanos
-- ciudad
-- comunes
-- sociedad
+- cities
+- commons
+- society
+- alternative urbanisms
 featured: true
 links:
 - type: pdf
@@ -41,9 +40,6 @@ math: false
 ---
 
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
-El texto completo puede verse en los repositorios siguientes: [Tesis Doctorals en Xarxa](http://hdl.handle.net/10803/565533), [O2 de la Universitat Oberta de Catalunya](http://hdl.handle.net/10609/78706), [Zenodo](https://zenodo.org/record/1251627).
-A continuación comparto la presentación de la defensa:
+Full text can be found in the following repositories: [Tesis Doctorals en Xarxa](http://hdl.handle.net/10803/565533), [O2 de la Universitat Oberta de Catalunya](http://hdl.handle.net/10609/78706), [Zenodo](https://zenodo.org/record/1251627).
+An on-line and live version can be found in https://phd.carloscamara.es/en
 
-<script async class="speakerdeck-embed" data-id="b62594fe9afc44fba4aa8518440bfd31" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
-{{ tweeet 999321190236901376 }}
